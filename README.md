@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
--  Passionate software developer focused on building efficient, scalable, and impactful solutions.
--  Currently working on performance testing, algorithm challenges, and software tools.
--  Continuously learning modern web technologies and open-source systems.
--  Goal: Build great software and collaborate with amazing developers worldwide!
+- Passionate software developer focused on building efficient, scalable, and impactful solutions.
+- Currently working on performance testing, algorithm challenges, and software tools.
+- Continuously learning modern web technologies and open-source systems.
+- Goal: Build great software and collaborate with amazing developers worldwide!
 
 ---
 
