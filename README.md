@@ -1,7 +1,7 @@
 # Hi there, I'm shashma! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Software+Developer+%26+Tech+Enthusiast;Building+cool+things+with+code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Tech+Enthusiast;Building+cool+things+with+code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <br />
@@ -17,16 +17,16 @@
 
 ---
 
-###  About Me
+### 🚀 About Me
 
-- Passionate software developer focused on building efficient, scalable, and impactful solutions.
-- Currently working on performance testing, algorithm challenges, and software tools.
-- Continuously learning modern web technologies and open-source systems.
-- Goal: Build great software and collaborate with amazing developers worldwide!
+- 💻 Passionate software developer focused on building efficient, scalable, and impactful solutions.
+- 🔭 Currently working on performance testing, algorithm challenges, and software tools.
+- 🌱 Continuously learning modern web technologies and open-source systems.
+- 🎯 Goal: Build great software and collaborate with amazing developers worldwide!
 
 ---
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-###  GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shashma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -64,7 +64,7 @@
 
 ---
 
-###  Featured Repositories
+### 📌 Featured Repositories
 
 | Repository | Description |
 | :--- | :--- |
