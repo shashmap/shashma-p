@@ -1,8 +1,9 @@
 # Hi there, I'm shashma! 👋
 
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Software+Developer+%26+Tech+Enthusiast;Building+cool+things+with+code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Software+Developer+%26+Tech+Enthusiast;Building+cool+things+with+code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
+
 <br />
 
 <div align="center">
@@ -16,7 +17,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - Passionate software developer focused on building efficient, scalable, and impactful solutions.
 - Currently working on performance testing, algorithm challenges, and software tools.
@@ -25,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,22 +48,23 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="shashma's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=shashma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shashma?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shashma&show_icons=true&theme=tokyonight&hide_border=true" alt="shashma's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-### 📌 Featured Repositories
+###  Featured Repositories
 
 | Repository | Description |
 | :--- | :--- |
